@@ -1,0 +1,2 @@
+# MysqlMetaGenerate
+geerate entity
